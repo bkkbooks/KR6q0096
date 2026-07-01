@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0096/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 誡初心學人文
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T48/T48n2019B.xml
+    old_id: T48n2019B
+hash: sha256:83c30d5daf85ca5909ec6762b220fa8ba3c078b936ed6187894eccb6cb338451
